@@ -2,8 +2,8 @@ require 'formula'
 
 class Zlibphp < Formula
   homepage 'http://www.zlib.net/'
-  url 'http://zlib.net/zlib-1.2.8.tar.gz'
-  sha256 '36658cb768a54c1d4dec43c3116c27ed893e88b02ecfcb44f2166f9c0b7f2a0d'
+  url 'http://zlib.net/fossils/zlib-1.2.8.tar.gz'
+  sha256 '2a0dd0894c35b8736ff2bee925aab35b473a6c6b432b25e56442bacb0e72bc3a'
 
   keg_only :provided_by_osx
 
